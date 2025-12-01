@@ -12,7 +12,7 @@
 |2.2| - |готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_2/2.2.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_2/2.2.png |
 |2.3|-| в процессе|||
 |2.4|-|в процессе|||
-|2.5|-|в процессе|||
+|2.5|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_5/2.5.cpp||
 |2.6|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_6/2.6.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_6/2.6.png|
 # 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
