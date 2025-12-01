@@ -10,6 +10,10 @@
 | 1.3  | -  |  готово | https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/1_3/1.3.cpp  | https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/1_3/1.3.png |
 |2.1  | - | готово  | https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_1/2.1.cpp |  https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_1/2.1.png |
 |2.2| - |готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_2/2.2.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_2/2.2.png |
+|2.3|-| в процессе|||
+|2.4|-|в процессе|||
+|2.5|-|в процессе|||
+|2.6|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_6/2.6.cpp||
 # 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
