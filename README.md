@@ -6,7 +6,7 @@
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
 |  1.1   |  -   |  готово   |   https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/1_1/1.1.cpp  |   https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/1_1/1.1.png  |
-|  1.2 |   | готово  | https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/1_2/1.2.cpp  | https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/1_2/1.2.png  |
+|  1.2 |  - | готово  | https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/1_2/1.2.cpp  | https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/1_2/1.2.png  |
 |   |   |   |   |   |
 # 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
