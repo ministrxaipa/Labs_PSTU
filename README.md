@@ -25,7 +25,7 @@
 |2.13|-|в процессе|||
 |2.14|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_14/2.14.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_14/2.14.png|
 |2.15|-|в процессе|||
-|2.16|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_16/2.16.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_16/2.16.cpp|
+|2.16|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_16/2.16.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_16/2.16.png|
 # 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
