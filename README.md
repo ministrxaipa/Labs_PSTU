@@ -30,7 +30,7 @@
 |2.18|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_18/2.18.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_18/2.18.png|
 |2.19|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_19/2.19.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_19/2.19.png|
 |2.20|-|в процессе|||
-|2.21|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_21/2.21.cpp||
+|2.21|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_21/2.21.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_21/2.21.png|
 # 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
