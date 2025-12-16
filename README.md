@@ -33,6 +33,7 @@
 |2.21|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_21/2.21.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_21/2.21.png|
 |2.22|-|в процессе|||
 |2.23|-|в процессе|||
+|eq_Half|решение половинным делением|в процессе|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Half/вариант%2015%20.cpp||
 # 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
