@@ -31,7 +31,7 @@
 |2.19|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_19/2.19.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_19/2.19.png|
 |2.20|-|в процессе|||
 |2.21|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_21/2.21.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_21/2.21.png|
-|2.22|-|в процессе|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_22/2.22.cpp||
+|2.22|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_22/2.22.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_22/2.22.png|
 |2.23|-|в процессе|||
 |eq_Half|решение половинным делением|в процессе|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Half/вариант%2015%20.cpp||
 |eq_Newton|решение методом Ньютона|в процессе|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Newton/вариант%2015.cpp||
