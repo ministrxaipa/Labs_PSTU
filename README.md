@@ -35,6 +35,7 @@
 |2.23|-|в процессе|||
 |eq_Half|решение половинным делением|в процессе|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Half/вариант%2015%20.cpp||
 |eq_Newton|решение методом Ньютона|в процессе|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Newton/вариант%2015.cpp||
+|eq_Iter|решение методом итерации||https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Iter/вариант%2015.cpp||
 # 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
