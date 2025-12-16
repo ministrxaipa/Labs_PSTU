@@ -31,6 +31,8 @@
 |2.19|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_19/2.19.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_19/2.19.png|
 |2.20|-|в процессе|||
 |2.21|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_21/2.21.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_21/2.21.png|
+|2.22|-|в процессе|||
+|2.23|-|в процессе|||
 # 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
