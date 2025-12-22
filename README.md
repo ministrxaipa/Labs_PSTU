@@ -40,6 +40,7 @@
 |ptr_2|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/ptr_2/ptr_2.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/ptr_2/ptr_2.png|
 |ptr_3|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/ptr_3/ptr_3.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/ptr_3/ptr_3.png|
 |ptr_4|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/ptr_4/ptr_4.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/ptr_4/ptr_4.png|
+|ptr_5|-||https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/ptr_5/ptr_5.cpp||
 # 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
