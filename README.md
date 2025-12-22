@@ -35,7 +35,7 @@
 |2.23|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_23/2.23.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_23/2.23.png|
 |eq_Half|решение половинным делением|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Half/вариант%2015%20.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Half/eq_Half.png|
 |eq_Newton|решение методом Ньютона|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Newton/вариант%2015.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Newton/вариант%2015.png|
-|eq_Iter|решение методом итерации||https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Iter/вариант%2015.cpp||
+|eq_Iter|решение методом итерации|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Iter/вариант%2015.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Iter/eq_Iter.png|
 |ptr_1|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/ptr_1/ptr_1.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/ptr_1/ptr_1.png|
 |ptr_2|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/ptr_2/ptr_2.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/ptr_2/ptr_2.png|
 |ptr_3|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/ptr_3/ptr_3.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/ptr_3/ptr_3.png|
