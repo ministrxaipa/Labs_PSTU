@@ -18,7 +18,7 @@
 |2.7.2|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_7/2.7.2.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_7/2.7.2.png|
 |2.7.3|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_7/2.7.3.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_7/2.7.3.png|
 |2.8|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_8/2.8.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_8/2.8.png|
-|2.9|-|в процессе|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_9/2.9.cpp||
+|2.9|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_9/2.9.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_9/2.9.png|
 |2.10|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_10/2.10.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_10/2.10.png|
 |2.11|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_11/2.11.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_11/2.11.png|
 |2.12|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_12/2.12.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_12/2.12.png|
