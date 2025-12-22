@@ -32,7 +32,7 @@
 |2.20|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_20/2.20.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_20/2.20.png|
 |2.21|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_21/2.21.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_21/2.21.png|
 |2.22|-|готово|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_22/2.22.cpp|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_22/2.22.png|
-|2.23|-|в процессе|||
+|2.23|-|в процессе|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/2_23/2.23.cpp||
 |eq_Half|решение половинным делением|в процессе|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Half/вариант%2015%20.cpp||
 |eq_Newton|решение методом Ньютона|в процессе|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Newton/вариант%2015.cpp||
 |eq_Iter|решение методом итерации||https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_1/eq_Iter/вариант%2015.cpp||
