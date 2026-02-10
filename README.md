@@ -45,11 +45,11 @@
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
 |   3.1  |  -   | почти    |   https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.1/3.1.cpp  |     |
-|3.2|-||https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.2/3.2.cpp||
-|3.3|-||https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.3/3.3.cpp||
-|3.4|-||https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.4/3.4.cpp||
-|3.5|-||https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.5/3.5.cpp||
-|3.6|-||https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.6/3.6.cpp||
-|3.7|-||||
-|3.8|-||https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.8/3.8.cpp||
-|3.9|-||||
+|3.2|-|почти|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.2/3.2.cpp||
+|3.3|-|почти|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.3/3.3.cpp||
+|3.4|-|почти|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.4/3.4.cpp||
+|3.5|-|почти|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.5/3.5.cpp||
+|3.6|-|почти|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.6/3.6.cpp||
+|3.7|-|в процессе|||
+|3.8|-|почти|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.8/3.8.cpp||
+|3.9|-|почти|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.9/3.9.cpp||
