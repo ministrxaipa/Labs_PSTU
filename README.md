@@ -47,7 +47,7 @@
 |   3.1  |  -   | почти    |   https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.1/3.1.cpp  |     |
 |3.2|-||https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.2/3.2.cpp||
 |3.3|-||https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.3/3.3.cpp||
-|3.4|-||||
+|3.4|-||https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.4/3.4.cpp||
 |3.5|-||||
 |3.6|-||||
 |3.7|-||||
