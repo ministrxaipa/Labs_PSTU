@@ -50,6 +50,6 @@
 |3.4|-|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.4/3.4.cpp)||
 |3.5|-|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.5/3.5.cpp)||
 |3.6|-|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.6/3.6.cpp)||
-|3.7|-|в процессе|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.7/3.7.cpp)||
+|3.7|-|в процессе|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.7/3.7.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.7/3.7.png)|
 |3.8|-|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.8/3.8.cpp)||
 |3.9|-|почти|https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.9/3.9.cpp||
