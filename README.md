@@ -47,7 +47,7 @@
 |   3.1  |  -   | почти    |  [код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.1/3.1.cpp)  |   [схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.1/3.1.png)  |
 |3.2|-|готов|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.2/3.2.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.2/3.2.png)|
 |3.3|-|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.3/3.3.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.3/3.3.png)|
-|3.4|-|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.4/3.4.cpp)||
+|3.4|-|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.4/3.4.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.4/3.4.png)|
 |3.5|-|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.5/3.5.cpp)||
 |3.6|-|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.6/3.6.cpp)||
 |3.7|-|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.7/3.7.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.7/3.7.png)|
