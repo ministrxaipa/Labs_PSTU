@@ -45,7 +45,7 @@
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
 |   3.1  |  -   | почти    |  [код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.1/3.1.cpp)  |   [схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.1/3.1.png)  |
-|3.2|-|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.2/3.2.cpp)||
+|3.2|-|готов|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.2/3.2.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.2/3.2.png)|
 |3.3|-|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.3/3.3.cpp)||
 |3.4|-|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.4/3.4.cpp)||
 |3.5|-|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.5/3.5.cpp)||
