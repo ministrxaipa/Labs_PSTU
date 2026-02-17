@@ -54,3 +54,4 @@
 |3.8|-|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2код/3.8/3.8.cpp)||
 |3.9|-|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.9/3.9.cpp)||
 |3.10|-|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.10/3.10.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.10/3.10.png)|
+|3.11|-|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.11/3.11.cpp)|[]|
