@@ -58,4 +58,5 @@
 |3.12|-|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.12/3.12.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.12/3.12.png)|
 |3.13|-|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.13/3.13.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.13/3.13.png)|
 # Лабораторные 
+|п/п|Наименование|Статус|Ссылка на исходный код|Ссылка на схему|
 |4|вариант 15 | в процессе | | |
