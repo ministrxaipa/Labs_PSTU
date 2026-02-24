@@ -61,4 +61,4 @@
 |п/п|Наименование|Статус|Ссылка на исходный код|Ссылка на схему|
 |---|---|---|---|---|
 |4|вариант 15 | готово |[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_4/4%20лаб%2015%20вар.cpp) |[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_4/4%20лаб%2015%20вар.png)|
-|5|вариант 15| в процессе|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_5/5%20лаб%2015%20вар.cpp)|[схема]|
+|5|вариант 15| в процессе|[код]()|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_5/5%20лаб%2015%20вар.png)|
