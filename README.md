@@ -52,7 +52,7 @@
 |3.6|-|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.6/3.6.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.6/3.6.png)|
 |3.7|-|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.7/3.7.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.7/3.7.png)|
 |3.8|-|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.8/3.8.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.8/3.8.png)|
-|3.9|-|готво|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.9/3.9.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.9/3.9.png)|
+|3.9|-|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.9/3.9.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.9/3.9.png)|
 |3.10|-|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.10/3.10.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.10/3.10.png)|
 |3.11|-|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.11/3.11.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.11/3.11.png)|
 |3.12|-|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.12/3.12.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/3.12/3.12.png)|
@@ -60,4 +60,4 @@
 # Лабораторные 
 |п/п|Наименование|Статус|Ссылка на исходный код|Ссылка на схему|
 |---|---|---|---|---|
-|4|вариант 15 | в процессе |[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_4/4%20лаб%2015%20вар.cpp) |[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_4/4%20лаб%2015%20вар.png)|
+|4|вариант 15 | готово |[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_4/4%20лаб%2015%20вар.cpp) |[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_4/4%20лаб%2015%20вар.png)|
