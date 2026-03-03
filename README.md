@@ -62,7 +62,7 @@
 |---|---|---|---|---|
 |1|л/р №4 вариант 15| готово |[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_4/4%20лаб%2015%20вар.cpp) |[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_4/4%20лаб%2015%20вар.png)|
 |2|л/р №5 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_5/5%20лаб%2015%20вар.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_5/5%20лаб%2015%20вар.png)
-|3|рекурсии||||
+|3|л/р №3 "рекурсии", "числа фибоначчи", "НОД"|2/3 готово|||
 |4|ханойская башня||||
 |5|задача о 8 ферзях||||
 |6|сортировки |готово|[репозиторий](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/sort)||
