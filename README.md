@@ -66,4 +66,4 @@
 |4|ханойская башня||[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/hanoi/ханойская%20башня.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/hanoi/ханойская%20башня.png)|
 |5|задача о 8 ферзях||||
 |6|сортировки |готово|[репозиторий](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/sort)||
-|7|л/р №10 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_10/лаб%2010%20вар%2015.cpp)|[схема]|
+|7|л/р №10 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_10/лаб%2010%20вар%2015.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_10/лаб%2010%20вар%2015.png)|
