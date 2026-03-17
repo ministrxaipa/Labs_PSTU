@@ -68,5 +68,5 @@
 |6|сортировки |готово|[репозиторий](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/sort)||
 |7|л/р №10 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_10/лаб%2010%20вар%2015.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_10/лаб%2010%20вар%2015.png)|
 |8|л/р №7.1 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_7.1/лаб%207.1%20вар%2015.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_7.1/лаб%207.1%20вар%2015.png)|
-|9|л/р №7.2 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_7.2/лаб%207.2%20вар%2015.cpp)|[]|
+|9|л/р №7.2 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_7.2/лаб%207.2%20вар%2015.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_7.2/лаб%207.2%20вар%2015.png)|
 |10|л/р №6 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_6/лаб%206%20вар%2015.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_6/лаб%206%20вар%2015.png)|
