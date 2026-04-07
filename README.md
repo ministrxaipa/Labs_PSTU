@@ -70,3 +70,13 @@
 |8|л/р №7.1 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_7.1/лаб%207.1%20вар%2015.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_7.1/лаб%207.1%20вар%2015.png)|
 |9|л/р №7.2 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_7.2/лаб%207.2%20вар%2015.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_7.2/лаб%207.2%20вар%2015.png)|
 |10|л/р №6 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_6/лаб%206%20вар%2015.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_6/лаб%206%20вар%2015.png)|
+|11|л/р №9 вариант 15||||
+|12|л/р №8 вариант 15||||
+|13|л/р №11.1||||
+|14|л/р №11.2||||
+|15|л/р №11.3||||
+|16|л/р №11.4||||
+|17|поиски:линейный, интерполяционный, бинарный||||
+|18|поиски:наивный строковый, Кнут-Моррис-Пратт и Бойер-Мур||||
+|19|сложные сортировки:быстрая по Ломуто, слиянием, блочная, подсчетом||||
+|20|сортировки Шелла и быстрая по Хоар||||
