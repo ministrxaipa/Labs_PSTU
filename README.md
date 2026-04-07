@@ -79,4 +79,4 @@
 |17|поиски:линейный, интерполяционный, бинарный||||
 |18|поиски:наивный строковый, Кнут-Моррис-Пратт и Бойер-Мур||||
 |19|сложные сортировки:быстрая по Ломуто, слиянием, блочная, подсчетом||||
-|20|сортировки Шелла и быстрая по Хоар|почти|[Хоар](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/shell%2Choar/Хоар.cpp)[Шелл](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/shell%2Choar/Шелл.cpp)||
+|20|сортировки Шелла и быстрая по Хоар|почти|[Хоар](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/shell%2Choar/Хоар.cpp) [Шелл](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/shell%2Choar/Шелл.cpp)||
