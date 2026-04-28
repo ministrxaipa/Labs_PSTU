@@ -78,7 +78,7 @@
 |16|л/р №11.4||||
 |17|поиски:линейный, интерполяционный, бинарный||||
 |18|поиски:наивный строковый, Кнут-Моррис-Пратт и Бойер-Мур||||
-|19|сложные сортировки:быстрая по Ломуто, слиянием, блочная, подсчетом|3/4|[1](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/hard%20sort/Ломут.cpp) [2](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/hard%20sort/слияние.cpp) [3]() [4](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/hard%20sort/подсчет.cpp)||
+|19|сложные сортировки:быстрая по Ломуто, слиянием, блочная, подсчетом|3/4|[1](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/hard%20sort/Ломут.cpp) [2](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/hard%20sort/слияние.cpp) [3](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/hard%20sort/блочная.cpp) [4](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/hard%20sort/подсчет.cpp)||
 |20|сортировки Шелла и быстрая по Хоар|готово|[Хоар](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/shell%2Choar/Хоар.cpp) [Шелл](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/shell%2Choar/Шелл.cpp)|[Хоар](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/shell%2Choar/Хоар.png) [Шелл](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/shell%2Choar/Шелл.png)|
 |21|многофазная и естественная сортировки (внешние сортировки)||||
 |22|хэш-таблицы||||
