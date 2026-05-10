@@ -73,7 +73,7 @@
 |11|л/р №9 вариант 15|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_9/лаб%209%20вар%2015.cpp)||
 |12|л/р №8 вариант 15|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_8/лаб%208%20вар%2015.cpp)||
 |13|л/р №11.1 однонаправленные списки вариант 15|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_11.1/лаб%2011%20одно%20вар%2015.cpp)||
-|14|л/р №11.2||||
+|14|л/р №11.2 двунаправленные списки вариант 15|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_11.2/лаб%2011%20двунапр%20вар%2015.cpp)||
 |15|л/р №11.3||||
 |16|л/р №11.4||||
 |17|поиски:линейный, интерполяционный, бинарный|готово|[lin](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/sort%20(lin%2C%20inter%2C%20bin)/линейный.cpp) [inter](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/sort%20(lin%2C%20inter%2C%20bin)/интерполяционный.cpp) [bin](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/sort%20(lin%2C%20inter%2C%20bin)/бинарный.cpp)|[lin](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/sort%20(lin%2C%20inter%2C%20bin)/линейный.png) [inter](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/sort%20(lin%2C%20inter%2C%20bin)/интерполяционный.png) [bin](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/sort%20(lin%2C%20inter%2C%20bin)/бинарный.png)|
