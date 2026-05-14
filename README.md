@@ -65,7 +65,7 @@
 |3|л/р №3 "рекурсии", "числа фибоначчи", "НОД"|2/3 готово|[репозиторий](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/lab%203%2C%20nod%2C%20fibonachi)||
 |4|ханойская башня|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/hanoi/ханойская%20башня.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/hanoi/ханойская%20башня.png)|
 |5|задача о 8 ферзях|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/eight_queen/задача%20о%20восьми%20ферзях.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/eight_queen/задача%20о%20восьми%20ферзях.png)|
-|6|сортировки(вставка, выбор, пузырек)|готово|[1](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/sort/вставка.cpp)||
+|6|сортировки(вставка, выбор, пузырек)|готово|[1](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/sort/вставка.cpp) [2](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/sort/выбор.cpp)||
 |7|л/р №10 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_10/лаб%2010%20вар%2015.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_10/лаб%2010%20вар%2015.png)|
 |8|л/р №7.1 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_7.1/лаб%207.1%20вар%2015.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_7.1/лаб%207.1%20вар%2015.png)|
 |9|л/р №7.2 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_7.2/лаб%207.2%20вар%2015.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/lab_7.2/лаб%207.2%20вар%2015.png)|
