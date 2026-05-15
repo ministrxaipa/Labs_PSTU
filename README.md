@@ -91,7 +91,7 @@
 |26|классы 4 вариант 15|без схемы|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс4.cpp)||
 |27|классы 5 вариант 15|без схемы|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс5.cpp)||
 |28|классы 6 вариант 15|без схем|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс6.cpp)||
-|29|классы 7||||
+|29|классы 7 вариант 15|без схем|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс7.cpp)||
 |30|классы 8||||
 |31|классы 9||||
 |32|классы 10||||
