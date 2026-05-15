@@ -87,7 +87,7 @@
 |---|---|---|---|---|
 |23|классы 1|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс1.cpp)||
 |24|классы 2|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс2.cpp)||
-|25|классы 3||||
+|25|классы 3|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс3.cpp)||
 |26|классы 4||||
 |27|классы 5||||
 |28|классы 6||||
