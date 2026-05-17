@@ -86,7 +86,7 @@
 |п/п|Наименование|Статус|Ссыдка на исходный код|Ссылка на схему|
 |---|---|---|---|---|
 |23|классы 1 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс1.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс1.drawio.png)|
-|24|классы 2 вариант 15|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс2.cpp)||
+|24|классы 2 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс2.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс2.png)|
 |25|классы 3 вариант 15|почти|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс3.cpp)||
 |26|классы 4 вариант 15|без схемы|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс4.cpp)||
 |27|классы 5 вариант 15|без схемы|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс5.cpp)||
