@@ -96,5 +96,5 @@
 |31|классы 9 вариант 15 реалицазия 3,1|без схем|[код3](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс9%20релиз3.cpp) [код1](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс9%20релиз1.cpp)||
 |32|классы 10 вариант 15|без схем|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс10.cpp)||
 |33|классы 11 вариант 15|без схем|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс11.cpp)||
-|34|классы 12||||
+|34|классы 12 вариант 12|без схем|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс12.cpp)||
 |35|классы 13||||
