@@ -89,7 +89,7 @@
 |24|классы 2 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс2.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс2.png)|
 |25|классы 3 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс3.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс3.png)|
 |26|классы 4 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс4.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс4.png)|
-|27|классы 5 вариант 15|без схемы|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс5.cpp)||
+|27|классы 5 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс5.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс5.png)|
 |28|классы 6 вариант 15|без схем|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс6.cpp)||
 |29|классы 7 вариант 15|без схем|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс7.cpp)||
 |30|классы 8 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс8.cpp)|[obj](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс8(диаграмма%20объектов).png) [class](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс8(диаграмма%20классов).drawio.png)|
