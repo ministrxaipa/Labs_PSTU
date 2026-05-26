@@ -101,4 +101,4 @@
 # Проект
 |Наименование|Статус|Ссылка|
 |---|---|---|
-|Проект|готово||
+|Проект|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/project/untitled3)|
