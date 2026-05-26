@@ -101,4 +101,6 @@
 # Проект
 |Наименование|Статус|Ссылка|
 |---|---|---|
-|Проект|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/project/untitled3)|
+|Код|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/project/untitled3)|
+|Отчёт|готово|[отчет](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/project/арм.pdf)|
+|UML-диаграмма|готово|[uml]()|
