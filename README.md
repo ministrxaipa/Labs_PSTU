@@ -98,7 +98,7 @@
 |33|классы 11 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс11.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс11.png)|
 |34|классы 12 вариант 12|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс12.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс12.png)|
 |35|классы 13||||
-#Проект
+# Проект
 |Наименование|Статус|Ссылка|
 |---|---|---|
 |Проект|готово||
