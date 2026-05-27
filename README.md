@@ -108,3 +108,4 @@
 |Наименование|Статус|Ссылка|
 |---|---|---|
 |комивояжер|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/komivoiaj)|
+|граф|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/graph)|
