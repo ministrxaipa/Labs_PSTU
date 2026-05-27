@@ -104,8 +104,9 @@
 |Код|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/project/untitled3)|
 |Отчёт|готово|[отчет](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/project/арм.pdf)|
 |UML-диаграмма|готово|[uml](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/project/проект%20uml.png)|
-# Комивояжер
+# Qt
 |Наименование|Статус|Ссылка|
 |---|---|---|
 |комивояжер|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/komivoiaj)|
 |граф|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/graph)|
+|деревья|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/tree)|
