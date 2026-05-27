@@ -96,8 +96,8 @@
 |31|классы 9 вариант 15 реалицазия 3,1|готово|[код3](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс9%20релиз3.cpp) [код1](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс9%20релиз1.cpp)| [схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс9.png)|
 |32|классы 10 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс10.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс10.png)|
 |33|классы 11 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс11.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс11.png)|
-|34|классы 12 вариант 12|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс12.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс12.png)|
-|35|классы 13||||
+|34|классы 12 вариант 15|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс12.cpp)|[схема](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс12.png)|
+|35|классы 13 вариант 15|без схемы|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_2/class/класс13.cpp)||
 # Проект
 |Наименование|Статус|Ссылка|
 |---|---|---|
