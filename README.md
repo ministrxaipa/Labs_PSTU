@@ -110,3 +110,9 @@
 |комивояжер|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/komivoiaj)|
 |граф|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/graph)|
 |деревья|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/tree/main/sem_2/tree)|
+
+
+#3 Семестр
+|п/п|Наименование|Статус|Ссылка на исходный код|
+|---|---|---|---|
+|1|лаб 1 калькулятор|черновой вариант|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_3/dicretca/дислаб1.cpp)|
