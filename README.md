@@ -116,5 +116,5 @@
 # Дискретная математика
 |п/п|Наименование|Статус|Ссылка на исходный код|
 |---|---|---|---|
-|1|лаб 1 калькулятор|черновой вариант|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_3/dicretca/дислаб1.cpp)|
+|1|лаб 1 калькулятор|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_3/dicretca/дислаб1%20.cpp)|
 |2|лаб 2 отношения|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_3/dicretca/дислаб2.cpp)|
