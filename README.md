@@ -118,3 +118,4 @@
 |---|---|---|---|
 |1|лаб 1 калькулятор|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_3/dicretca/дислаб1%20.cpp)|
 |2|лаб 2 отношения|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_3/dicretca/дислаб2.cpp)|
+|3|лаб 3 минимизация|готово|[код](https://github.com/ministrxaipa/Labs_PSTU/blob/main/sem_3/dicretca/lab3dis.cpp)|
